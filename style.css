@@ -66,7 +66,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
 .nav-services { position: relative; }
 .services-menu {
   position: absolute;
-  top: calc(100% + 10px);
+  top: 100%;
   left: -18px;
   min-width: 230px;
   padding: 10px;
@@ -136,7 +136,7 @@ h1 { color: var(--petrol); font: 500 clamp(46px, 5vw, 74px)/.98 var(--serif); le
   margin: 0 auto;
   padding-bottom: 34px;
 }
-.footer-brand { display: flex; align-items: flex-start; gap: 15px; }
+.footer-brand { display: flex; align-items: center; gap: 15px; }
 .footer-brand-logo { width: 60px; height: 60px; object-fit: contain; flex: 0 0 auto; }
 .footer-brand > div { display: flex; flex-direction: column; justify-content: center; gap: 5px; }
 .footer-brand-title { display: flex; align-items: baseline; gap: 9px; }

@@ -133,7 +133,6 @@ class SiteFooter extends HTMLElement {
                 <a class="footer-name" href="/">Iorana</a>
                 <span class="footer-brand-subtitle">LINGUA</span>
               </div>
-              <p class="footer-tagline">Des mots choisis avec soin, au service de vos projets.</p>
             </div>
           </section>
           <nav class="footer-column" aria-label="Navigation">
